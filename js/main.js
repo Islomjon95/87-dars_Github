@@ -1,0 +1,1 @@
+alert("Git va Github dasturi haqida tushuncha")
